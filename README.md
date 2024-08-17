@@ -3,7 +3,7 @@
 ![purpose](https://img.shields.io/badge/purpose-learning-green)
 ![PyPI - Version](https://img.shields.io/pypi/v/pythora)
 
-Pythora is a web framework built for learning purposes.
+[Pythora](https://pypi.org/project/pythora/) is a web framework built for learning purposes.
 It is a WSGI Framework and can be used with any WSGI application server such as Gunicorn.
 
 ## Installation
